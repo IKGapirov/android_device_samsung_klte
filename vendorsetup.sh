@@ -1,6 +1,5 @@
-#!/bin/bash
 #
-# Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2011-2017 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,10 +14,5 @@
 # limitations under the License.
 #
 
-set -e
-
-export DEVICE=klte
-export DEVICE_COMMON=klte-common
-export VENDOR=samsung
-
-./../$DEVICE_COMMON/extract-files.sh $@
+add_lunch_combo aosp_klte-user
+add_lunch_combo aosp_klte-userdebug

@@ -1,0 +1,56 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_device_samsung_klte",
+        "target_path":  "device/samsung/klte",
+        "revision":     "n-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_device_samsung_klte-common",
+        "target_path":  "device/samsung/klte-common",
+        "revision":     "n-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_device_samsung_msm8974-common",
+        "target_path":  "device/samsung/msm8974-common",
+        "revision":     "n-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_device_samsung_qcom-common",
+        "target_path":  "device/samsung/qcom-common",
+        "revision":     "n-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_kernel_samsung_msm8974",
+        "target_path":  "kernel/samsung/msm8974",
+        "revision":     "n-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_hardware_samsung",
+        "target_path":  "hardware/samsung",
+        "revision":     "n-mr2"
+    },
+	{
+        "remote":       "github",
+        "repository":   "IKGapirov/android_external_stlport",
+        "target_path":  "external/stlport",
+        "revision":     "n-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_packages_resources_devicesettings",
+        "target_path":  "packages/resources/devicesettings",
+        "revision":     "n-mr2"
+    },
+	{
+        "remote":       "github",
+        "repository":   "IKGapirov/proprietary_vendor_samsung_kltexx",
+        "target_path":  "vendor/samsung",
+        "revision":     "n-mr2"
+    }
+]

@@ -3,7 +3,6 @@ Copyright 2014 - The CyanogenMod Project
 Copyright 2017 - The LineageOS Project
 
 Device configuration for Samsung Galaxy S5 Unified variants (SM-G900F, SM-G900M, SM-G900R4, SM-G900R7, SM-G900T, SM-G900V, SM-G900W8, SM-S902L).
-![Galaxy S5] (https://cassida.ru/wp-content/themes/theme/images/cassida-about-label.svg)
 ========================================
 
 Basic   | Specification List
@@ -22,4 +21,4 @@ Rear Camera  | 16 MP, f/2.2, 31mm, phase detection autofocus, LED flash
 Front Camera | 2 MP, f/2.4, 22mm
 Release Date | February 2014
 
-![Galaxy S5](http://cdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s5-g900f-1.jpg "Galaxy S5")
+![Galaxy S5](https://cassida.ru/wp-content/themes/theme/images/cassida-about-label.svg "Galaxy S5")

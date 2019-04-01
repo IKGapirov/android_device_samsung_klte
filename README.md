@@ -21,4 +21,4 @@ Rear Camera  | 16 MP, f/2.2, 31mm, phase detection autofocus, LED flash
 Front Camera | 2 MP, f/2.4, 22mm
 Release Date | February 2014
 
-![Galaxy S5](https://cassida.ru/wp-content/themes/theme/images/cassida-about-label.svg "Galaxy S5")
+![Galaxy S5](http://cdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s5-g900f-1.jpg "Galaxy S5")

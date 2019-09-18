@@ -78,10 +78,6 @@ void gsm_properties(char const *rild_lib_variant)
 
 void init_target_properties()
 {
-    std::string platform = GetProperty("ro.board.platform", "");
-    if (platform != ANDROID_TARGET)
-        return;
-
     std::string bootloader = GetProperty("ro.bootloader", "");
 
     if (bootloader.find("G900AZ") == 0) {

@@ -1,0 +1,44 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_device_samsung_klte",
+        "target_path":  "device/samsung/klte",
+        "revision":     "10.x"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_device_samsung_klte-common",
+        "target_path":  "device/samsung/klte-common",
+        "revision":     "10.x"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_device_samsung_msm8974-common",
+        "target_path":  "device/samsung/msm8974-common",
+        "revision":     "10.x"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_device_samsung_qcom-common",
+        "target_path":  "device/samsung/qcom-common",
+        "revision":     "10.x"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_kernel_samsung_msm8974",
+        "target_path":  "kernel/samsung/msm8974",
+        "revision":     "10.x"
+    },
+    {
+        "remote":       "github",
+        "repository":   "IKGapirov/android_hardware_samsung",
+        "target_path":  "hardware/samsung",
+        "revision":     "10.x"
+    },
+    {
+        "remote":       "github",
+        "repository":   "TheMuppets/proprietary_vendor_samsung",
+        "target_path":  "vendor/samsung",
+        "revision":     "lineage-17.1"
+    }
+]
